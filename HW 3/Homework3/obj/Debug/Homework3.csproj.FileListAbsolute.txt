@@ -1,0 +1,6 @@
+C:\Users\Dennis Reilly\Documents\COMP 410\HW 3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Dennis Reilly\Documents\COMP 410\HW 3\Homework3\bin\Debug\Homework3.exe
+C:\Users\Dennis Reilly\Documents\COMP 410\HW 3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\Dennis Reilly\Documents\COMP 410\HW 3\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+C:\Users\Dennis Reilly\Documents\COMP 410\HW 3\Homework3\obj\Debug\Homework3.exe
+C:\Users\Dennis Reilly\Documents\COMP 410\HW 3\Homework3\obj\Debug\Homework3.pdb
